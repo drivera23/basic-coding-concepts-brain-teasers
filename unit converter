@@ -10,7 +10,7 @@ def FtoC(testFtoC):
 def CtoK(testCtoK):
     return(testCtoK + 273.15)
 
-print(KtoC(0)) // -273.15
-print(CtoF(1)) // 33.8
-print(FtoC(73)) // 22.77777777777778
-print(CtoK(11)) // 284.15
+print(KtoC(0)) # -273.15
+print(CtoF(1)) # 33.8
+print(FtoC(73)) # 22.77777777777778
+print(CtoK(11)) # 284.15
